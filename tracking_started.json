@@ -1,0 +1,22 @@
+{
+  "userId": "104197",
+  "eventType": "trackingStarted",
+  "data": {
+    "currentTracking": {
+      "id": 39953531,
+      "activity": {
+        "id": "980238",
+        "name": "Internal Meeting",
+        "color": "#0f9587",
+        "integration": "zei",
+        "spaceId": "99271"
+      },
+      "startedAt": "2021-05-26T15:32:29.307",
+      "note": {
+        "text": null,
+        "tags": [],
+        "mentions": []
+      }
+    }
+  }
+}

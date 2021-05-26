@@ -1,0 +1,10 @@
+{
+  "userId": "104197",
+  "eventType": "trackingStopped",
+  "data": {
+    "newTimeEntry": null,
+    "createdTimeEntries": [],
+    "editedTimeEntries": [],
+    "deletedTimeEntries": []
+  }
+}
