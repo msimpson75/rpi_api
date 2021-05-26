@@ -14,7 +14,7 @@ def json_example():
 	time = rawTime
 
 	return '''
-            The activity is: {}
+            The activity is this: {}
             The time started is: {}'''.format(activity, time)
 
 if __name__ == '__main__':
